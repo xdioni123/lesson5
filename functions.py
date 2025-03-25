@@ -9,3 +9,7 @@ helloworld()
 
 def mbledhja(a,b):
     rezultati = a + b
+
+    return rezultati
+
+print(mbledhja(3,5))
